@@ -1,7 +1,7 @@
 console.log("Running Unit Tests...");
 
 // A simple test: does 1 + 1 equal 2?
-if (1 + 1 === 2) {
+if (1 + 1 === 3) {
     console.log("TEST PASSED ✅");
     process.exit(0); // Success
 } else {
